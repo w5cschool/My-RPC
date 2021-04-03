@@ -1,0 +1,2 @@
+nettyClientTransport=github.w5cschool.remoting.transport.netty.client.NettyClientTransport
+socketRpcClient=github.w5cschool.remoting.transport.socket.SocketRpcClient
